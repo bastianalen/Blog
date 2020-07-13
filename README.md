@@ -1,2 +1,0 @@
-# Blog
-tremendo blog
