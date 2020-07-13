@@ -9,9 +9,12 @@ body{
 #container
 {
     width: 70%;
+    color: deepskyblue;
+    text-align: center;
+    font-family: cursive;
+    font-size: 12px;
     padding: 1em;
-    text-align: left;
-    border: 1px solid #dddddd;
+    border: 1px solid black;
     margin: 0 auto;
 }
 
