@@ -1,4 +1,4 @@
 # bastianalen.github.io
-Hola Anais </3 
-simplemente queria decirte que eres hermosa :) nunca lo olvides ;)
-Espero tuvieras un lindo dia
+Redireccion hacia la pagina de github
+Utilizarlo en el diseño del formato del desarrollo web
+<img src=" "/>
